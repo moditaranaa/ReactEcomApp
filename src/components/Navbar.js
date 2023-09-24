@@ -25,7 +25,7 @@ class Navbar extends React.Component {
 
             <div className={styles.navbarContainer}>
                 <h1 style={{ marginLeft: '25px', cursor: 'pointer' }} className={styles.title} onClick={() => this.handleViewCartClick(false)}>
-                    ECOM101
+                   EcomApp
                 </h1>
                 {(setShowCart) || (toAddNewProduct) || (setViewPage)
                     ?
