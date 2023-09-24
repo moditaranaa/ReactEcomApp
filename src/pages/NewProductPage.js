@@ -23,7 +23,7 @@ class NewProduct extends React.Component {
             rating,
             img,
         }
-        return fetch("https://my-json-server.typicode.com/moditaranaa/ReactEcomApp/db", {
+        return fetch("https://my-json-server.typicode.com/moditaranaa/ReactEcomApp/products", {
             method: "POST",
             headers: {
                 Accept: 'application/json',
