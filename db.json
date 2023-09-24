@@ -14,7 +14,7 @@
             "description": "Hand Bag, color: black",
             "price": "500",
             "rating": "7",
-            "img": "/img/handbag.jpg"
+            "img": "/img/handbag.jpeg"
         },
         {
             "id": "3",
@@ -22,7 +22,7 @@
             "description": "Mfg. By: Buggati Inc. 128HP",
             "price": "5000",
             "rating": "8",
-            "img": "/img/toyCar.jpg"
+            "img": "/img/toyCar.jpeg"
         },
         {
             "id": "4",
@@ -30,7 +30,7 @@
             "description": "Mfg. By: Cartier Inc. 12 Carat",
             "price": "20000",
             "rating": "5",
-            "img": "/img/necklace.jpg"
+            "img": "/img/necklace.jpeg"
         },
         {
             "id": "5",
@@ -38,7 +38,7 @@
             "description": "Mfg. By: Rolex Night-Solar Edition",
             "price": "60000",
             "rating": "10",
-            "img": "/img/watch.jpg"
+            "img": "/img/watch.jpeg"
         }
     ]
 }

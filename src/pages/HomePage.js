@@ -16,7 +16,7 @@ class HomePage extends React.Component {
 
     handleGetProducts = async () => {
         try {
-            const response = await fetch('https://my-json-server.typicode.com/ajaybiradar5956/ReduxEcom/products', {
+            const response = await fetch('https://my-json-server.typicode.com/moditaranaa/ReactEcomApp/db', {
                 method: 'GET',
             });
             const data = await response.json();
