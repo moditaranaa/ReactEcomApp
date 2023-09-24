@@ -22,7 +22,7 @@
             "description": "Mfg. By: Apple Inc. 128GB|16GB",
             "price": "150000",
             "rating": "9.5",
-            "img": "/img/laptop.jpg"
+            "img": "/img/laptop.jpeg"
         },
         {
             "id": "4",
@@ -30,15 +30,15 @@
             "description": "Mfg. By: Apple Inc. 128GB|16GB",
             "price": "20000",
             "rating": "9.5",
-            "img": "/img/airpods.jpg"
+            "img": "/img/airpods.jpeg"
         },
         {
             "id": "5",
-            "name": "Phone Case",
+            "name": "PhoneCase",
             "description": "Mfg. By: Apple Inc. 128GB|16GB",
             "price": "1000",
             "rating": "8",
-            "img": "/img/case.jpg"
+            "img": "/img/case.jpeg"
         },
         {
             "id": "6",
@@ -46,7 +46,7 @@
             "description": "Mfg. By: Apple Inc. 128GB|16GB",
             "price": "2000",
             "rating": "8",
-            "img": "/img/charger.jpg"
+            "img": "/img/charger.jpeg"
         }
     ]
 }
